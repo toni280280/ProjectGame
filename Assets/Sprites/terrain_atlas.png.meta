@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: a3d67bac5cdbe4f4c887c649ed0ecf9c
+timeCreated: 1434283062
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: terrain_atlas_0
+    21300002: terrain_atlas_1
+    21300004: terrain_atlas_2
+    21300006: terrain_atlas_3
+    21300008: terrain_atlas_4
+    21300010: terrain_atlas_5
+    21300012: terrain_atlas_6
+    21300014: terrain_atlas_7
+    21300016: terrain_atlas_8
+    21300018: terrain_atlas_9
+    21300020: terrain_atlas_10
+    21300022: terrain_atlas_11
+    21300024: terrain_atlas_12
+    21300026: terrain_atlas_13
+    21300028: terrain_atlas_14
+    21300030: terrain_atlas_15
+    21300032: terrain_atlas_16
+    21300034: terrain_atlas_17
+    21300036: terrain_atlas_18
+    21300038: terrain_atlas_19
+    21300040: terrain_atlas_20
+    21300042: terrain_atlas_21
+    21300044: terrain_atlas_22
+    21300046: terrain_atlas_23
+    21300048: terrain_atlas_24
+    21300050: terrain_atlas_25
+    21300052: terrain_atlas_26
+    21300054: terrain_atlas_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: terrain_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 288
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 288
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 322
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 324
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 420
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 586
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 642
+        width: 93
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 892
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 223
+        width: 18
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 191
+        width: 24
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 161
+        width: 36
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 132
+        width: 36
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 99
+        width: 36
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 221
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 190
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 389
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 514
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 386
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 127
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 30
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 31
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 96
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 865
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 887
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: terrain_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 224
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

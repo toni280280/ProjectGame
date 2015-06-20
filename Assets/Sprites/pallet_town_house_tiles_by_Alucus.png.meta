@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: f6c7be4bbc9e5e14eb0aec64d91ac629
+timeCreated: 1432922104
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pallet_town_house_tiles_by_Alucus_0
+    21300002: pallet_town_house_tiles_by_Alucus_1
+    21300004: pallet_town_house_tiles_by_Alucus_2
+    21300006: pallet_town_house_tiles_by_Alucus_3
+    21300008: pallet_town_house_tiles_by_Alucus_4
+    21300010: pallet_town_house_tiles_by_Alucus_5
+    21300012: pallet_town_house_tiles_by_Alucus_6
+    21300014: pallet_town_house_tiles_by_Alucus_7
+    21300016: pallet_town_house_tiles_by_Alucus_8
+    21300018: pallet_town_house_tiles_by_Alucus_9
+    21300020: pallet_town_house_tiles_by_Alucus_10
+    21300022: pallet_town_house_tiles_by_Alucus_11
+    21300024: pallet_town_house_tiles_by_Alucus_12
+    21300026: pallet_town_house_tiles_by_Alucus_13
+    21300028: pallet_town_house_tiles_by_Alucus_14
+    21300030: pallet_town_house_tiles_by_Alucus_15
+    21300032: pallet_town_house_tiles_by_Alucus_16
+    21300034: pallet_town_house_tiles_by_Alucus_17
+    21300036: pallet_town_house_tiles_by_Alucus_18
+    21300038: pallet_town_house_tiles_by_Alucus_19
+    21300040: pallet_town_house_tiles_by_Alucus_20
+    21300042: pallet_town_house_tiles_by_Alucus_21
+    21300044: pallet_town_house_tiles_by_Alucus_22
+    21300046: pallet_town_house_tiles_by_Alucus_23
+    21300048: pallet_town_house_tiles_by_Alucus_24
+    21300050: pallet_town_house_tiles_by_Alucus_25
+    21300052: pallet_town_house_tiles_by_Alucus_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pallet_town_house_tiles_by_Alucus_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 159
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 159
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 223
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 173
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 112
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 283
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 285
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 280
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 277
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 284
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 284
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 253
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 246
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 247
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 176
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 273
+        width: 139
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pallet_town_house_tiles_by_Alucus_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 334
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
